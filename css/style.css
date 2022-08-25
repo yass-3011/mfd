@@ -365,9 +365,9 @@ ul::before {
   .text p {
     font-size: 15px;
   }
-  .link {
+/*   .link {
     width: 215px;
-  }
+  } */
 }
 @media (min-width: 500px) and (max-width: 780px) {
   .container {
